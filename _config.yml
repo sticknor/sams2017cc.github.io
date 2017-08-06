@@ -1,9 +1,2 @@
 title: "Creative Coding"
 subtitle: "CMU SAMS 2017"
-
-# set default layout to default.html
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
