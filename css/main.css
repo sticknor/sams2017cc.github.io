@@ -8,6 +8,11 @@ a {
   text-decoration: none;
 }
 
+.project-thumbnail {
+  width: 100%;
+  max-width: 400px;
+}
+
 .project-article {
   border-bottom: 1px inset;
   padding-bottom: 50px;
