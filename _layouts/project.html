@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article>
+<article class="project-article">
 
 <header>
 <h1 class="big end">{{ page.title }}</h1>
@@ -11,8 +11,6 @@ layout: default
 
 {{ content }}
 
-<p class="small"><a target="_blank" href="{{ page.sourceURL }}">Source code</a></p>
+<p class="small end"><a target="_blank" href="{{ page.sourceURL }}">Source code</a></p>
 
 </article>
-
-{% include project-paginator.html %}
