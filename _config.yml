@@ -1,10 +1,13 @@
 title: "Creative Coding"
 subtitle: "CMU SAMS 2017"
 
-# default layouts for projects
+collections:
+  projects:
+    output: true
+
 defaults:
   - scope:
-      path: "projects"
-      type: "pages"
+      path: ""
+      type: projects
     values:
       layout: "project"
