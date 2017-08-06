@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 
+
 {% if page.title %}
   {% capture head_title %}{{ page.title }}{% endcapture %}
 {% else %}
   {% capture head_title %}{{ site.title }}{% endcapture %}
 {% endif %}
+
 
 <html lang="en-us">
 
@@ -15,43 +17,23 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"/>
-
-<style>
-  body {
-    margin: auto;
-    padding: 12px;
-    max-width: 900px;
-  }
-
-  .text-box {
-    max-width: 650px;
-  }
-
-  .larger {
-    font-size: 24px;
-    line-height: 40px;
-  }
-</style>
+<link rel="stylesheet" href="/css/main.css"/>
 
 </head>
 
 
 <body>
 
-<header>
-  <h1 class="larger end">{{ site.title }}</h1>
-  <p class="large">{{ site.subtitle }}</p>
+<header class="site-header">
+  <h1 class="larger end"><a href="/">{{ site.title }}</a></h1>
+  <p class="large end">{{ site.subtitle }}</p>
 </header>
 
-<main>
-  {{ content }}
-</main>
+{{ content }}
 
-<footer class="small">
-<p>Creative Coding, SAMS 2017<br/>
-   Carnegie Mellon University</p>
-<p>Instructor: Sam Ticknor<br/>
-   TA, Website: Paul Peng</p>
+<footer class="site-footer small">
+<p>Creative Coding, SAMS 2017<br/>Carnegie Mellon University</p>
+<p>Instructor: Sam Ticknor<br/>TA, Website: Paul Peng</p>
 </footer>
 
 </body>

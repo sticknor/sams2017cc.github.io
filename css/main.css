@@ -1,0 +1,26 @@
+body {
+  margin: auto;
+  padding: 12px;
+  max-width: 900px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.larger {
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.site-header {
+  margin-bottom: 40px;
+}
+
+.index-nav {
+  margin: 40px 0;
+}
+
+.site-footer {
+  margin-top: 40px;
+}
