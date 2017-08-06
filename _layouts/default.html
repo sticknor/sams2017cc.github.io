@@ -7,12 +7,54 @@
 {% endif %}
 
 <html lang="en-us">
-  <head>
-    <title>{{ head_title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"/>
-  </head>
-  <body>
-    {{ content }}
-  </body>
+
+
+<head>
+
+<title>{{ head_title }}</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"/>
+
+<style>
+  body {
+    margin: auto;
+    padding: 12px;
+    max-width: 900px;
+  }
+
+  .text-box {
+    max-width: 650px;
+  }
+
+  .larger {
+    font-size: 24px;
+    line-height: 40px;
+  }
+</style>
+
+</head>
+
+
+<body>
+
+<header>
+  <h1 class="larger end">{{ site.title }}</h1>
+  <p class="large">{{ site.subtitle }}</p>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer class="small">
+<p>Creative Coding, SAMS 2017<br/>
+   Carnegie Mellon University</p>
+<p>Instructor: Sam Ticknor<br/>
+   TA, Website: Paul Peng</p>
+</footer>
+
+</body>
+
+
 </html>
