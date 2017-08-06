@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+
+{% if page.title %}
+  {% capture head_title %}{{ page.title }}{% endcapture %}
+{% else %}
+  {% capture head_title %}{{ site.title }}{% endcapture %}
+{% endif %}
+
+
+<html lang="en-us">
+
+
+<head>
+
+<title>{{ head_title }}</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"/>
+<link rel="stylesheet" href="/css/main.css"/>
+
+</head>
+
+
+<body>
+
+<header class="site-header">
+  <h1 class="larger end"><a href="/">{{ site.title }}</a></h1>
+  <p class="large end">{{ site.subtitle }}</p>
+</header>
+
+{{ content }}
+
+<footer class="site-footer small">
+<p>Creative Coding, SAMS 2017<br/>Carnegie Mellon University</p>
+<p>Instructor: Sam Ticknor<br/>TA, Website: Paul Peng</p>
+</footer>
+
+</body>
+
+
+</html>
