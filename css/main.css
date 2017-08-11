@@ -9,6 +9,10 @@ body {
   max-width: 900px;
 }
 
+.warning-text {
+  color: #f03c69;
+}
+
 a {
   text-decoration: none;
 }
