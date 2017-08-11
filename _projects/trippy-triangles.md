@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 15
 title: Trippy Triangles
 firstName: Ben
 lastName: Stallworth

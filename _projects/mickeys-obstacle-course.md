@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Mickey&#8217;s Obstacle Course
 firstName: Regan
 lastName: McCall
@@ -7,6 +7,7 @@ sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/Hk1TRd9Pb
 embedURL: https://alpha.editor.p5js.org/embed/Hk1TRd9Pb
 width: 900
 height: 900
+final: true
 ---
 
 This piece is an interactive video game with a Mickey Mouse avatar.

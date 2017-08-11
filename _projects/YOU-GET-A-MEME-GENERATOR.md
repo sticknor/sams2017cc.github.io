@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: YOU GET A MEME GENERATOR
 firstName: Ashley
 lastName: Kim
