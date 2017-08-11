@@ -1,4 +1,5 @@
 ---
+index: 0
 title: The Visual of Music
 firstName: Ashley
 lastName: Kim

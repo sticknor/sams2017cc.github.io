@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Bouncing Mickeys
 firstName: Regan
 lastName: McCall

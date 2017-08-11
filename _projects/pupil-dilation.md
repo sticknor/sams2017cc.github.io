@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Pupil Dilation
 firstName: Ben
 lastName: Stallworth

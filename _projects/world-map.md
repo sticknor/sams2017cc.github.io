@@ -1,4 +1,5 @@
 ---
+index: 0
 title: World Map
 firstName: Zirwa R.
 lastName: Malik

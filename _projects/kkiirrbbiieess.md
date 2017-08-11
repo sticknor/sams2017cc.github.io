@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Kkiirrbbiieess
 firstName: Regan
 lastName: McCall

@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Summer Blossoms
 firstName: Raquel
 lastName: Castromonte

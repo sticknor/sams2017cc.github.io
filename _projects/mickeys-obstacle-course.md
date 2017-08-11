@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Mickey&#8217;s Obstacle Course
 firstName: Regan
 lastName: McCall

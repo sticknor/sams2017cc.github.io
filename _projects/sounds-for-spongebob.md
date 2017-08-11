@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Sounds for Spongebob&hellip;
 firstName: Ashley
 lastName: Kim

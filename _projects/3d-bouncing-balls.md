@@ -1,4 +1,5 @@
 ---
+index: 0
 title: 3D Bouncing Balls
 firstName: Ben
 lastName: Stallworth
