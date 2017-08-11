@@ -2,8 +2,8 @@
 title: Pupil Dilation
 firstName: Ben
 lastName: Stallworth
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/HJXVBt5P-
-embedURL: http://alpha.editor.p5js.org/embed/HJXVBt5P-
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/HJXVBt5P-
+embedURL: https://alpha.editor.p5js.org/embed/HJXVBt5P-
 width: 800
 height: 800
 ---

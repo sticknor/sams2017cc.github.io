@@ -2,8 +2,8 @@
 title: Muslim Women Voices
 firstName: Zirwa R.
 lastName: Malik
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/H1ZByR5vZ
-embedURL: http://alpha.editor.p5js.org/embed/H1ZByR5vZ
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/H1ZByR5vZ
+embedURL: https://alpha.editor.p5js.org/embed/H1ZByR5vZ
 width: 400
 height: 620
 ---

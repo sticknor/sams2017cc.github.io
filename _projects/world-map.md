@@ -2,8 +2,8 @@
 title: World Map
 firstName: Zirwa R.
 lastName: Malik
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/Bk42e0cvb
-embedURL: http://alpha.editor.p5js.org/embed/Bk42e0cvb
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/Bk42e0cvb
+embedURL: https://alpha.editor.p5js.org/embed/Bk42e0cvb
 width: 1000
 height: 620
 ---

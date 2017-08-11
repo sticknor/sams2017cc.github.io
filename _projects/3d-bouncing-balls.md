@@ -2,8 +2,8 @@
 title: 3D Bouncing Balls
 firstName: Ben
 lastName: Stallworth
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/BJG-NKqP-
-embedURL: http://alpha.editor.p5js.org/embed/BJG-NKqP-
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/BJG-NKqP-
+embedURL: https://alpha.editor.p5js.org/embed/BJG-NKqP-
 width: 900
 height: 900
 warning: Flashing warning.

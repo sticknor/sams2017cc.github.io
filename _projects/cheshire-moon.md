@@ -2,8 +2,8 @@
 title: Cheshire Moon
 firstName: Regan
 lastName: McCall
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/B13a6u5vb
-embedURL: http://alpha.editor.p5js.org/embed/B13a6u5vb
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/B13a6u5vb
+embedURL: https://alpha.editor.p5js.org/embed/B13a6u5vb
 width: 800
 height: 800
 warning: Sound warning.

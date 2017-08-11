@@ -2,8 +2,8 @@
 title: Trippy Triangles
 firstName: Ben
 lastName: Stallworth
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/BkYB8tqwZ
-embedURL: http://alpha.editor.p5js.org/embed/BkYB8tqwZ
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/BkYB8tqwZ
+embedURL: https://alpha.editor.p5js.org/embed/BkYB8tqwZ
 width: 800
 height: 800
 ---

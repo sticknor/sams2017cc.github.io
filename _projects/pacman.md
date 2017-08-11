@@ -2,8 +2,8 @@
 title: Pacman
 firstName: Alexandra (Lexie)
 lastName: Rodriguez
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/ryz0jKqwb
-embedURL: http://alpha.editor.p5js.org/embed/ryz0jKqwb
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/ryz0jKqwb
+embedURL: https://alpha.editor.p5js.org/embed/ryz0jKqwb
 width: 1000
 height: 1000
 ---

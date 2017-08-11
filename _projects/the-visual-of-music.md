@@ -2,8 +2,8 @@
 title: The Visual of Music
 firstName: Ashley
 lastName: Kim
-sourceURL: http://alpha.editor.p5js.org/samsw2017cc/sketches/HyHrJT5DW
-embedURL: http://alpha.editor.p5js.org/embed/HyHrJT5DW
+sourceURL: https://alpha.editor.p5js.org/samsw2017cc/sketches/HyHrJT5DW
+embedURL: https://alpha.editor.p5js.org/embed/HyHrJT5DW
 width: 710
 height: 400
 ---
