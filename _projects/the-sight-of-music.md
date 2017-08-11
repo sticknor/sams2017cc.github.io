@@ -1,6 +1,6 @@
 ---
 index: 1
-title: The Visual of Music
+title: The Sight of Music
 firstName: Ashley
 lastName: Kim
 sourceURL: https://alpha.editor.p5js.org/samsw2017cc/sketches/HyHrJT5DW
