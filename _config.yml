@@ -1,2 +1,14 @@
 title: "Creative Coding"
 subtitle: "CMU SAMS 2017"
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: "project"
