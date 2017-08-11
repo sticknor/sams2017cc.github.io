@@ -10,6 +10,9 @@ height: 1000
 final: true
 ---
 
+R - Restart <br/>
+Arrow Keys - Move PacMan
+
 This code is a play on the popular game Pac-Man, though without the popular
 ghosts that follow PacMan around. I decided to omit their presence in order
 to provide the player with a shorter, less stressful version of the game,
