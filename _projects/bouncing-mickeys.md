@@ -2,8 +2,8 @@
 title: Bouncing Mickeys
 firstName: Regan
 lastName: McCall
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/SkhT5OcP-
-embedURL: http://alpha.editor.p5js.org/embed/SkhT5OcP-
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/SkhT5OcP-
+embedURL: https://alpha.editor.p5js.org/embed/SkhT5OcP-
 width: 1200
 height: 1200
 warning: Sound warning.

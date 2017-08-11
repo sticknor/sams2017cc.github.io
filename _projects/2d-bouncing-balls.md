@@ -2,8 +2,8 @@
 title: 2D Bouncing Balls
 firstName: Ben
 lastName: Stallworth
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/SJrZft5PW
-embedURL: http://alpha.editor.p5js.org/embed/SJrZft5PW
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/SJrZft5PW
+embedURL: https://alpha.editor.p5js.org/embed/SJrZft5PW
 width: 1500
 height: 900
 ---

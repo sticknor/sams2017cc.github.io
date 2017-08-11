@@ -2,8 +2,8 @@
 title: Kkiirrbbiieess
 firstName: Regan
 lastName: McCall
-sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/rJeDFO5DW
-embedURL: http://alpha.editor.p5js.org/embed/rJeDFO5DW
+sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/rJeDFO5DW
+embedURL: https://alpha.editor.p5js.org/embed/rJeDFO5DW
 width: 400
 height: 400
 warning: Flashing warning.
