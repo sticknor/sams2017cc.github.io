@@ -8,9 +8,9 @@
 <section>
 <img class="project-thumbnail" src="/thumbnails/{{ project.slug }}.jpg" alt="Thumbnail."/>
 <p class="big end"><b>{{ project.title }}</b></p>
-<p>{{ project.firstName }} {{ project.lastName }}</p>
+<p class="end">{{ project.firstName }} {{ project.lastName }}</p>
 {% if project.warning %}
-<p class="warning-text">{{ project.warning }}</p>
+<p class="smaller warning-text">{{ project.warning }}</p>
 {% endif %}
 </section>
 
