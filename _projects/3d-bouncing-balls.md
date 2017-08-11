@@ -1,4 +1,5 @@
 ---
+index: 11
 title: 3D Bouncing Balls
 firstName: Ben
 lastName: Stallworth
@@ -7,6 +8,7 @@ embedURL: https://alpha.editor.p5js.org/embed/BJG-NKqP-
 width: 900
 height: 900
 warning: Flashing warning.
+final: true
 ---
 
 This piece is my attempt to give the illusion of and mimic the 3D world

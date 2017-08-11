@@ -1,4 +1,5 @@
 ---
+index: 10
 title: Pacman
 firstName: Alexandra (Lexie)
 lastName: Rodriguez
@@ -6,6 +7,7 @@ sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/ryz0jKqwb
 embedURL: https://alpha.editor.p5js.org/embed/ryz0jKqwb
 width: 1000
 height: 1000
+final: true
 ---
 
 This code is a play on the popular game Pac-Man, though without the popular

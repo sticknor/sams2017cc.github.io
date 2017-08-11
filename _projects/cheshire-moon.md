@@ -1,4 +1,5 @@
 ---
+index: 8
 title: Cheshire Moon
 firstName: Regan
 lastName: McCall

@@ -1,4 +1,5 @@
 ---
+index: 16
 title: Underwater Gluttony
 firstName: Wesley
 lastName: Zhao
@@ -6,6 +7,7 @@ sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/rkDXf_5vZ
 embedURL: https://alpha.editor.p5js.org/embed/rkDXf_5vZ
 width: 1500
 height: 1300
+final: true
 ---
 
 My project is a game that involves the interaction of fish with other

@@ -1,4 +1,5 @@
 ---
+index: 0
 title: Summer Blossoms
 firstName: Raquel
 lastName: Castromonte
@@ -6,6 +7,7 @@ sourceURL: https://alpha.editor.p5js.org/sams2017cc/sketches/HJD-m9qPZ
 embedURL: https://alpha.editor.p5js.org/embed/HJD-m9qPZ
 width: 700
 height: 500
+final: true
 ---
 
 This interactive clip enhances the interaction of human and

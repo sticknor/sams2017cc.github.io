@@ -1,4 +1,5 @@
 ---
+index: 1
 title: The Visual of Music
 firstName: Ashley
 lastName: Kim
@@ -6,6 +7,7 @@ sourceURL: https://alpha.editor.p5js.org/samsw2017cc/sketches/HyHrJT5DW
 embedURL: https://alpha.editor.p5js.org/embed/HyHrJT5DW
 width: 710
 height: 400
+final: true
 ---
 
 This is a music pitch visualizer&mdash;the various shapes move based on each
