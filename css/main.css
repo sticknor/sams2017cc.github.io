@@ -1,11 +1,38 @@
+html {
+  background: #fcfcfc;
+}
+
+html, .button, body, button, h1, h1.title, h2, h3, h4, h5, h6 {
+  font-family: 'Work Sans', sans-serif;
+}
+
 body {
   margin: auto;
-  padding: 12px;
+  padding: 20px;
+  max-width: 1600px;
+}
+
+.max-width {
+  margin: auto;
   max-width: 900px;
+}
+
+.warning-text {
+  color: #f03c69;
 }
 
 a {
   text-decoration: none;
+}
+
+.project-thumbnail {
+  width: 100%;
+  max-width: 400px;
+}
+
+.project-article {
+  border-bottom: 1px inset;
+  padding-bottom: 50px;
 }
 
 .larger {
@@ -18,9 +45,26 @@ a {
 }
 
 .site-nav {
-  margin: 40px 0;
+  margin-top: 60px;
+  padding-bottom: 40px;
+  border-bottom: 1px inset;
 }
 
 .site-footer {
-  margin-top: 40px;
+  margin-top: 20px;
+}
+
+.project-container {
+  display: inline-block;
+  min-width: 100%;
+  width: auto;
+  margin: 12px auto 40px;
+  padding: 20px;
+  background: #eeeeee;
+}
+
+iframe {
+  margin: auto;
+  display: block;
+  overflow: hidden;
 }

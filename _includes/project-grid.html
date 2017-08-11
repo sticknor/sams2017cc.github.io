@@ -1,0 +1,21 @@
+{% assign projects_sorted = site.projects | sort: 'lastName' %}
+
+<div class="row gutters">
+
+{% for project in projects_sorted %}
+<a class="col col-4" href="{{ project.url }}">
+
+<section>
+<img class="project-thumbnail" src="/thumbnails/{{ project.slug }}.jpg" alt="Thumbnail."/>
+<p class="big end"><b>{{ project.title }}</b></p>
+<p {% if project.warning %}class="end"{% endif %}>{{ project.firstName }} {{ project.lastName }}</p>
+{% if project.warning %}
+<p class="smaller warning-text">{{ project.warning }}</p>
+{% endif %}
+</section>
+
+</a>
+{% endfor %}
+
+
+</div>

@@ -1,0 +1,12 @@
+---
+title: Pupil Dilation
+firstName: Ben
+lastName: Stallworth
+sourceURL: http://alpha.editor.p5js.org/sams2017cc/sketches/HJXVBt5P-
+embedURL: http://alpha.editor.p5js.org/embed/HJXVBt5P-
+width: 800
+height: 800
+---
+
+This is an expansion of the very first object I made in this class, an eye.
+This eye is able to react to you messing with the lights. Click the screen.
