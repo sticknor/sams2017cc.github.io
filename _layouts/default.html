@@ -24,7 +24,7 @@
 
 <body>
 
-<header class="site-header">
+<header class="site-header max-width">
   <h1 class="larger end"><a href="/">{{ site.title }}</a></h1>
   <p class="large end">{{ site.subtitle }}</p>
 </header>
@@ -33,11 +33,11 @@
 {{ content }}
 </main>
 
-<nav class="site-nav">
+<nav class="site-nav max-width">
 {% include project-grid.html %}
 </nav>
 
-<footer class="site-footer small muted">
+<footer class="site-footer small muted max-width">
 <p>Creative Coding, SAMS 2017<br/>Carnegie Mellon University</p>
 <p>Instructor: Sam Ticknor<br/>TA, Website: Paul Peng</p>
 </footer>

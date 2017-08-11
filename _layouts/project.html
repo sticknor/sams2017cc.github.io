@@ -8,13 +8,15 @@ layout: default
 <iframe scrolling="no" width="{{ page.width }}" height="{{ page.height }}" src="{{ page.embedURL }}"></iframe>
 </div>
 
-<header>
+<div class="max-width">
+<header class="max-width">
 <h1 class="big end">{{ page.title }}</h1>
 <p>{{ page.firstName }} {{ page.lastName }}</p>
 </header>
 
 {{ content }}
 
-<p class="small end"><a target="_blank" href="{{ page.sourceURL }}">Source code</a></p>
+<p class="small end max-width"><a target="_blank" href="{{ page.sourceURL }}">Source code</a></p>
+</div>
 
 </article>
